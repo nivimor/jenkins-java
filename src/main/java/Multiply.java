@@ -9,6 +9,7 @@ public class Multiply {
     }
 
     public int Result(){
+        System.out.println("-------------------------------Calculating the results-----------------------");
         return x * y;
     }
 }
